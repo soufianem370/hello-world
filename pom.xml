@@ -27,7 +27,7 @@
       <url>http://inorabat.myqnapcloud.com:8082/repository/helloword-rel/</url>
     </repository>
     <snapshotRepository>
-      <id>deploymentRepo<</id>
+      <id>deploymentRepo</id>
       <url>http://inorabat.myqnapcloud.com:8082/service/rest/repository/browse/helloword/</url>
     </snapshotRepository>
 </distributionManagement>
