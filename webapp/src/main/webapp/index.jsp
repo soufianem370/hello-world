@@ -1,10 +1,3 @@
-<%--
-    Document   : index
-    Created on : 18 Sep, 2012, 6:35:44 PM
-    Author     : ramki
---%>
-
-
 <%@page import="java.util.ArrayList"%>
 <%@page import="java.util.Date"%>
 <%@page import="java.net.*"%>
