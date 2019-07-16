@@ -6,7 +6,7 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
-  <version>2.5-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -21,18 +21,13 @@
     <module>webapp</module>
   </modules>
 
-<distributionManagement>
-    <repository>
-      <id>Releases</id>
-      <name>Releases</name>
-      <url>http://inorabat.myqnapcloud.com:8081/nexus/content/repositories/releases/</url>
-    </repository>
-    <snapshotRepository>
-      <id>Snapshots</id>
-     <name>Snapshots</name>
-      <url>http://inorabat.myqnapcloud.com:8081/nexus/content/repositories/snapshots/</url>
-    </snapshotRepository>
-</distributionManagement>
+  <distributionManagement>
+    <site>
+      <id>site-server</id>
+      <name>Test Project Site</name>
+      <url>file:///tmp/maven-project-site</url>
+    </site>
+  </distributionManagement>
 
   <build>
     <plugins>
