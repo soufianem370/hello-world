@@ -9,7 +9,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-            <body style='background-color: red;'>
+            <%body style='background-color: red;'%>
+            <body style='background-color: blue;'>
 
     <body>
 <FONT size = 5 COLOR="#0000FF">
