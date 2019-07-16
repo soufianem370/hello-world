@@ -9,7 +9,7 @@
   <version>2.5-SNAPSHOT</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
-  <url>http://inorabat.myqnapcloud.com:8082/repository/helloword/</url>
+  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
