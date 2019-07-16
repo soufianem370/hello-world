@@ -18,6 +18,18 @@
   <build>
     <finalName>${project.artifactId}</finalName>
   </build>
+         <distributionManagement>
+    <repository>
+      <id>Releases</id>
+      <name>Releases</name>
+      <url>http://inorabat.myqnapcloud.com:8081/nexus/content/repositories/releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>Snapshots</id>
+     <name>Snapshots</name>
+      <url>http://inorabat.myqnapcloud.com:8081/nexus/content/repositories/snapshots/</url>
+    </snapshotRepository>
+</distributionManagement>
 
   <dependencies>
     <dependency>
