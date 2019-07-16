@@ -23,12 +23,14 @@
 
 <distributionManagement>
     <repository>
-      <id>deploymentRepo</id>
-      <url>http://inorabat.myqnapcloud.com:8082/repository/helloword-rel/</url>
+      <id>Releases</id>
+      <name>Releases</name>
+      <url>http://inorabat.myqnapcloud.com:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
-      <id>deploymentRepo</id>
-      <url>http://inorabat.myqnapcloud.com:8082/service/rest/repository/browse/helloword/</url>
+      <id>Snapshots</id>
+     <name>Snapshots</name>
+      <url>http://inorabat.myqnapcloud.com:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
