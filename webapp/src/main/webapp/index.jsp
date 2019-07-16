@@ -10,7 +10,7 @@
         <title>JSP Page</title>
     </head>
           
-            <body style='background-color: blue;'>
+            <body style='background-color: grey;'>
 
     <body>
 <FONT size = 5 COLOR="#0000FF">
