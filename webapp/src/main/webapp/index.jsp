@@ -26,16 +26,6 @@
     </body>
 
 <h1> test final pfe pipeline github</h1>
-<h1> Hello, Welcome to website test pfe </h1>
-<h1> Hello, Welcome to website test pfe </h1>
-<h1> Hello, Welcome to website test pfe </h1>
-<h1> Hello, Welcome to website test pfe </h1>
-<h1> Hello, Welcome to website test 13/07 </h1>
-<h1> Hello, Welcome to website test 14/07 </h1>
-<h1> Hello, Welcome to website test 14/07 </h1>
-  <h1> Hello, Welcome to website test 14/07 </h1>
-      <h1> Hello, Welcome to website test prod </h1>
+
     <h1> Hello, Welcome to website test prod </h1>
-    <h1> Hello, Welcome to website test 16/07/2019 </h1>
-      <h1> Hello, Welcome to website test 16/07/2019 </h1>
-    
+
