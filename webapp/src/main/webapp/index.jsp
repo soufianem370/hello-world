@@ -19,7 +19,7 @@
 />
    <br/>    
 <FONT size = 5 COLOR="#0000FF">
-        vous etes sur le serveur de test du PFE <%=InetAddress.getLocalHost()%> <br/><br/>
+        vous êtes sur le serveur de test du PFE <%=InetAddress.getLocalHost()%> <br/><br/>
         </FONT>
 
         <hr/>
